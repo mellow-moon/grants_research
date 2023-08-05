@@ -74,7 +74,7 @@ grants.xlsx - реестр соглашений
 ![Ipynb](https://img.shields.io/badge/Python-scipy-blue.svg?style=flat&logo=python&logoColor=white)
 ![Ipynb](https://img.shields.io/badge/Python-statsmodels-blue.svg?style=flat&logo=python&logoColor=white)
 
-# Выводы
+# Вывод
 
 ### 1. У каких получателей субсидий наибольшее количество грантов? Какая средняя сумма грантов для получателей?
 
